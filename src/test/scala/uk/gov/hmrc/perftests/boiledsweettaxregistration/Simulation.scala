@@ -16,7 +16,11 @@ class Simulation extends PerformanceTestRunner {
     // TODO - add your requests here
     Requests.navigateToNamePage
     Requests.submitNamePage
+    Requests.navigateToDatePage
+    Requests.submitDatePage
     Requests.navigateToAddressPage
+    Requests.submitAddressPage
+    Requests.navigateToCheckAnswersPage
 
   }
 
